@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cesar Dushimimana
-- 👀 I’m interested in both backend and frontend programmings
-- 🌱 I’m currently learning advanced skills in HTML, CSS, and JavaScript with Python introduction
-- 💞️ I’m looking to collaborate on the project that will be based on a software system in form of a social media dashboard that will be used in trading shops. 
+- 👀 I’m interested in AI and big data analysis, with a special niche in automation tasks.
+- 🌱 I’m currently learning advanced skills in HTML, CSS, and a thorough course on Python programming.
+- 💞️ I’m looking to collaborate on a project based on a software system in the form of a social media dashboard used in trading shops. I also intend to develop an online healthcare system connecting top-notch doctors, pharmacies, and patients while delivering the best services with zero delay/traveling.  
 - 📫 How to reach: dushimezar2003@gmail.com/ 
 
 <!---
